@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+# making this change for pull request
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShafiyaCoreApp", "ShafiyaCoreApp\ShafiyaCoreApp.csproj", "{10F5112E-C1C7-4DBC-97DB-524EC52F11D8}"
